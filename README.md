@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **youtube clone**
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **...**
 
 - 👨‍💻 All of my projects are available at [....](....)
 
