@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shyamnkolge2020@gmail.com**
 
-- 📄 Know about my experiences : https://drive.google.com/file/d/1agPq0wh6PSanYL4O4RXksv8OgHlCw4Hp/view?usp=sharing
+- 📄 Know about my experiences : http://bit.ly/46VG0Yj
 
 - ⚡ Fun fact **Fun Fact: Beyond coding, I'm a robotics enthusiast, blending bits and bolts to bring creations to life! 🤖💡 #TechAndMech**
 
